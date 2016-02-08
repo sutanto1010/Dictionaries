@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "www/js/HistoryController.js",
+    "inputFiles": [
+      "www/js/HistoryController.js"
+    ]
+  },
+  {
+    "outputFileName": "www/js/SettingController.js",
+    "inputFiles": [
+      "www/js/SettingController.js"
+    ]
+  },
+  {
+    "outputFileName": "www/js/SearchController.js",
+    "inputFiles": [
+      "www/js/SearchController.js"
+    ]
+  }
+]

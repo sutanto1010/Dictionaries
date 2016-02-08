@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+#search-input {
+	border-bottom: solid 1px green;
+}
+.text-bold {
+	font-weight: bold !important;
+}
+
+#search-tab-content .scroll {
+	height: 100%;
+}
