@@ -1,0 +1,2 @@
+# Dictionaries
+Ionic Dictionaries App 
